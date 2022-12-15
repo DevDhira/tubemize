@@ -175,14 +175,14 @@ REST_FRAMEWORK = {
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_TLS = True
-EMAIL_HOST ='smtp.socketlabs.com'
-EMAIL_HOST_USER = 'server46253'
-EMAIL_HOST_PASSWORD = 't5SYm92BxHz37KkRd68'
+EMAIL_HOST ='your email host'
+EMAIL_HOST_USER = 'your email user'
+EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_PORT = 587
-DEFAULT_FROM_EMAIL = 'evvrkpqjievc@karenkey.com'
+DEFAULT_FROM_EMAIL = 'your from email '
 
-STRIPE_SECRET_KEY = 'sk_test_51KA5UjKPyJLjGRo4WxQ4O7rIohrgFUJVCYHLbVwBGvB36PCBtKjnGqSnZtSWgLdpUNSuc0GDhpCzlWMSkSj4UsQR00x353jRuJ'
-STRIPE_WEBHOOK_SECRET = 'whsec_2ef9801e98fefc13ebe9d0f4a63e1409b0e9081494203d77457e5add08ed9ef9'
+STRIPE_SECRET_KEY = 'YOUR SECRET KEY'
+STRIPE_WEBHOOK_SECRET = 'YOUR WEBHOOK SECRET'
 
 
 #frontend
