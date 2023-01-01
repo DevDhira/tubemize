@@ -6,4 +6,4 @@ Demo App 👉 https://tubemize.web.app
 
 Watch the Demo Here 👇
 
-[![Tubemize](https://img.youtube.com/vi/uRa-zBbmc_o/0.jpg)](https://www.youtube.com/watch?v=uRa-zBbmc_o)
+[![Tubemize](https://img.youtube.com/vi/uRa-zBbmc_o/0.jpg)](https://www.youtube.com/watch?v=WoS5gsnWCmQ)
